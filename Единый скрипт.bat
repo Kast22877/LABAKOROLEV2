@@ -10,7 +10,7 @@ pause
 cd ..
 cd ..
 cd Korolev
-echo > 10111989.txt
+echo > 25102003.txt
 cd Konstantin
 cd Vladimirovich
 echo > 0.txt
